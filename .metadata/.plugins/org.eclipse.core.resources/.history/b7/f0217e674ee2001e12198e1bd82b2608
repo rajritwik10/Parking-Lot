@@ -1,0 +1,9 @@
+package com.spring.BookAssignment.dto;
+
+
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+public class BookDto {
+
+}

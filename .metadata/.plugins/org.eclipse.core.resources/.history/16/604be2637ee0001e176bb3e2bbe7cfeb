@@ -1,0 +1,19 @@
+package com.spring.ReviseBank.Controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.spring.ReviseBank.Services.AccountService;
+
+@RestController
+
+public class AccountController {
+	@Autowired
+	private AccountService accountservice;
+
+	public AccountController(AccountService accountservice) {
+		super();
+		this.accountservice = accountservice;
+	}
+	
+}

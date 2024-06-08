@@ -1,0 +1,10 @@
+package com.UniversityManagement.Student.Service.Impl;
+
+import org.springframework.stereotype.Service;
+
+import com.UniversityManagement.Student.Service.StudentService;
+
+@Service
+public class StudentServiceImpl implements StudentService{
+
+}
