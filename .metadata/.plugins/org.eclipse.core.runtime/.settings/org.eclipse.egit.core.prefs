@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=C\:\\Users\\rajri\\Downloads\\Spring\\FirstJobApplication\\.git;C\:\\Users\\rajri\\Downloads\\Spring\\UniversityManagement\\.git;C\:\\Users\\rajri\\Downloads\\Spring\\Parking-Lot\\.git;
-GitRepositoriesView.GitDirectories.relative=FirstJobApplication\\.git;UniversityManagement\\.git;Parking-Lot\\.git;
+GitRepositoriesView.GitDirectories=C\:\\Users\\rajri\\Downloads\\Spring\\FirstJobApplication\\.git;C\:\\Users\\rajri\\Downloads\\Spring\\.git;C\:\\Users\\rajri\\Downloads\\Spring\\UniversityManagement\\.git;C\:\\Users\\rajri\\Downloads\\Spring\\Parking-Lot\\.git;
+GitRepositoriesView.GitDirectories.relative=FirstJobApplication\\.git;.git;UniversityManagement\\.git;Parking-Lot\\.git;
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
